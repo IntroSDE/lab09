@@ -1,12 +1,9 @@
 # LAB09: SOAP Web Services (2)
 
-**Introduction to Service Design and Engineering | University of Trento | [Webpage](https://sites.google.com/site/introsdeunitn/lab-sessions/lab-session-9 "Permalink to LAB09: SOAP Web Services (2)")**
+**[Webpage](https://sites.google.com/a/unitn.it/introsde_2015-16/lab-sessions/lab-session-9 "Permalink to LAB09: SOAP Web Services (2)")**
 
 In this module, we will give a second look to implementing SOAP web services using JAX-WS, adding JPA to access databases
 
-## Code
-
-Links: [Source code][1]
 
 ## Guiding Notes
 
