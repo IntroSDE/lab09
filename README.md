@@ -177,11 +177,6 @@ In this module, we will give a second look to implementing SOAP web services usi
     }
     ```
 
-### JAX-WS + JPA - The Web Services - Exercise 
-
-* As you might have noticed, there are two methods defined in the interface but not implementated in the implementation class. **Implement them**.  
-
-
 
 ### JAX-WS + JPA - The Client
 
